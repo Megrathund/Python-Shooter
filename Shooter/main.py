@@ -1,4 +1,3 @@
-# Status: Abgeschlossen und funktioniert! :-D
 # Start des Projekts: 16.08.2022
 # Ende des Projekts: 25.08.2022
 # Hintergrundmusik von bensound.com,
