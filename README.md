@@ -1,2 +1,2 @@
 # Python-Shooter
-Ein kleiner Weltraum-Shooter mit PyGame
+Ein Weltraum-Shooter mit PyGame
